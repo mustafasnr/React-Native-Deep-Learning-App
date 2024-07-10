@@ -1,4 +1,4 @@
-[** KULLANILAN FASTAPI GITHUB REPO LINKI**](https://github.com/mustafasnr/deeplearningapi/tree/main)
+[**KULLANILAN FASTAPI GITHUB REPO LINKI**](https://github.com/mustafasnr/deeplearningapi/tree/main)
 
 
 
